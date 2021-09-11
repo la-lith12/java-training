@@ -24,7 +24,7 @@ class square
 		int sq = scanner.nextInt();
 		scanner.close();
 		
-		System.out.println("The square of the given value is:" + sq*sq );
+		System.out.println("The square of the given value is:" + sq**sq );
 		
 		
 		System.out.println("Enter a number:");

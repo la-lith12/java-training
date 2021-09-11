@@ -2,7 +2,7 @@ package java;
 
 public class kcg {
 
-	public static void main(String args[])  /* the error is : a[] , which has been 
+	public static void main(String[] args)  /* the error is : a[] , which has been 
 	changed to args[] due to this 'a' couldnt be named as a variable in main */
 	{
 		char a = 's';
